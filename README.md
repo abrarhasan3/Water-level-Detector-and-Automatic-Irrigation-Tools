@@ -13,6 +13,8 @@ This project is built to automate the watering system. We know a lot of water is
 
 ## Project Video:
 
+* <a href ="https://youtu.be/uJd2w5xWBcI"> Click Here to see the complete Project Video</a>
+
 
 ## Components:
 <img src="https://github.com/abrarhasan3/Water-level-Detector-and-Automatic-Irrigation-Tools/blob/main/Image%20And%20Video/Peripheral%20Presentation.png">
